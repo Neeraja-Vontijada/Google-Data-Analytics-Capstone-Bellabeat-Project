@@ -6,6 +6,7 @@ I’m excited to share that I recently completed a comprehensive data analysis p
 The objective was to analyze smart device data from the FitBit Fitness Tracker dataset, which includes detailed information on physical activity, heart rate, and sleep patterns from 30 users. My analysis aimed to identify trends in smart device usage and understand how these trends could inform marketing strategies for Bellabeat's product line, including their app and wearable devices.
 
 **Steps in the Data Analysis Process**
+
 **1. Ask**
    - **Key Questions**:
      - What are some trends in smart device usage?
@@ -35,5 +36,5 @@ The objective was to analyze smart device data from the FitBit Fitness Tracker d
    - Based on my analysis, I provided high-level recommendations for targeting younger audiences through social media and influencer partnerships.
    - Emphasizing app features that enhance user engagement could further drive interest and customer retention.
 
-** Conclusion **
+**Conclusion**
 This project not only deepened my understanding of data analysis but also reinforced the power of data-driven decision-making in shaping marketing strategies. I’m proud to have contributed insights that can help Bellabeat grow its market presence and better serve its customers.
