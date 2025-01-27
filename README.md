@@ -1,13 +1,11 @@
 # Google-Data-Analytics-Capstone-Bellabeat-Project
-** Unlocking Insights: Bellabeat Data Analysis Case Study **
+**Unlocking Insights: Bellabeat Data Analysis Case Study**
 I’m excited to share that I recently completed a comprehensive data analysis project focused on Bellabeat, a leading manufacturer of health-focused products for women. As a junior data analyst, I delved into smart device usage data to uncover valuable insights that could help shape Bellabeat's marketing strategy.
 
-** Project Overview**
-
+**Project Overview**
 The objective was to analyze smart device data from the FitBit Fitness Tracker dataset, which includes detailed information on physical activity, heart rate, and sleep patterns from 30 users. My analysis aimed to identify trends in smart device usage and understand how these trends could inform marketing strategies for Bellabeat's product line, including their app and wearable devices.
 
-** Steps in the Data Analysis Process**
-
+**Steps in the Data Analysis Process**
 **1. Ask**
    - **Key Questions**:
      - What are some trends in smart device usage?
